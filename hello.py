@@ -1,3 +1,3 @@
 import numpy as np
 
-print('Hello, GIT!')
+print('Hello, GIT, version2!')
